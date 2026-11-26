@@ -1,0 +1,100 @@
+﻿hs_chapter,chapter_name_en,chapter_name_th,section_no,section_name_en,section_name_th
+01,Live animals,สัตว์มีชีวิต,1,Live animals; animal products,สัตว์มีชีวิตและผลิตภัณฑ์จากสัตว์
+02,Meat and edible meat offal,เนื้อสัตว์และส่วนที่บริโภคได้,1,Live animals; animal products,สัตว์มีชีวิตและผลิตภัณฑ์จากสัตว์
+03,"Fish, crustaceans, molluscs",ปลา สัตว์น้ำจำพวกกุ้งปูและหอย,1,Live animals; animal products,สัตว์มีชีวิตและผลิตภัณฑ์จากสัตว์
+04,"Dairy, eggs, honey",ผลิตภัณฑ์นม ไข่ น้ำผึ้ง,1,Live animals; animal products,สัตว์มีชีวิตและผลิตภัณฑ์จากสัตว์
+05,Other animal products,ผลิตภัณฑ์จากสัตว์อื่น ๆ,1,Live animals; animal products,สัตว์มีชีวิตและผลิตภัณฑ์จากสัตว์
+06,"Live trees, plants, flowers",ต้นไม้ ไม้ดอก,2,Vegetable products,ผลิตภัณฑ์จากพืช
+07,Edible vegetables,ผักและรากพืชที่บริโภคได้,2,Vegetable products,ผลิตภัณฑ์จากพืช
+08,Edible fruit and nuts,ผลไม้และถั่ว,2,Vegetable products,ผลิตภัณฑ์จากพืช
+09,"Coffee, tea, spices",กาแฟ ชา เครื่องเทศ,2,Vegetable products,ผลิตภัณฑ์จากพืช
+10,Cereals,ธัญพืช (รวมข้าว),2,Vegetable products,ผลิตภัณฑ์จากพืช
+11,"Milling products, malt, starch",ผลิตภัณฑ์โม่สี มอลต์ แป้ง,2,Vegetable products,ผลิตภัณฑ์จากพืช
+12,Oil seeds and misc grains,เมล็ดพืชน้ำมัน,2,Vegetable products,ผลิตภัณฑ์จากพืช
+13,"Lac, gums, resins",ครั่ง ยางไม้ ยางเหนียว,2,Vegetable products,ผลิตภัณฑ์จากพืช
+14,Vegetable plaiting materials,วัสดุจากพืชใช้ถักสาน,2,Vegetable products,ผลิตภัณฑ์จากพืช
+15,Animal or vegetable fats and oils,ไขมันและน้ำมันจากสัตว์หรือพืช,3,Animal or vegetable fats and oils,ไขมันและน้ำมันจากสัตว์หรือพืช
+16,"Preparations of meat, fish",อาหารสำเร็จรูปจากเนื้อ ปลา สัตว์น้ำ,4,Prepared foodstuffs; beverages; tobacco,อาหารปรุงแต่ง เครื่องดื่ม ยาสูบ
+17,Sugars and confectionery,น้ำตาลและขนมที่ทำจากน้ำตาล,4,Prepared foodstuffs; beverages; tobacco,อาหารปรุงแต่ง เครื่องดื่ม ยาสูบ
+18,Cocoa and preparations,โกโก้และผลิตภัณฑ์,4,Prepared foodstuffs; beverages; tobacco,อาหารปรุงแต่ง เครื่องดื่ม ยาสูบ
+19,"Preparations of cereals, flour, pastry",ผลิตภัณฑ์จากธัญพืช แป้ง ขนมอบ,4,Prepared foodstuffs; beverages; tobacco,อาหารปรุงแต่ง เครื่องดื่ม ยาสูบ
+20,"Preparations of vegetables, fruit",ผลิตภัณฑ์จากผักและผลไม้,4,Prepared foodstuffs; beverages; tobacco,อาหารปรุงแต่ง เครื่องดื่ม ยาสูบ
+21,Misc edible preparations,อาหารปรุงแต่งเบ็ดเตล็ด,4,Prepared foodstuffs; beverages; tobacco,อาหารปรุงแต่ง เครื่องดื่ม ยาสูบ
+22,"Beverages, spirits, vinegar",เครื่องดื่ม สุรา น้ำส้มสายชู,4,Prepared foodstuffs; beverages; tobacco,อาหารปรุงแต่ง เครื่องดื่ม ยาสูบ
+23,Food industry residues; animal feed,กากจากอุตสาหกรรมอาหาร อาหารสัตว์,4,Prepared foodstuffs; beverages; tobacco,อาหารปรุงแต่ง เครื่องดื่ม ยาสูบ
+24,Tobacco,ยาสูบ,4,Prepared foodstuffs; beverages; tobacco,อาหารปรุงแต่ง เครื่องดื่ม ยาสูบ
+25,"Salt, sulphur, earths, stone, cement",เกลือ กำมะถัน ดิน หิน ปูน,5,Mineral products,ผลิตภัณฑ์แร่ธาตุและเชื้อเพลิง
+26,"Ores, slag and ash",แร่ ตะกรัน เถ้า,5,Mineral products,ผลิตภัณฑ์แร่ธาตุและเชื้อเพลิง
+27,Mineral fuels and oils,เชื้อเพลิงแร่และน้ำมัน,5,Mineral products,ผลิตภัณฑ์แร่ธาตุและเชื้อเพลิง
+28,Inorganic chemicals,เคมีภัณฑ์อนินทรีย์,6,Chemical products,เคมีภัณฑ์
+29,Organic chemicals,เคมีภัณฑ์อินทรีย์,6,Chemical products,เคมีภัณฑ์
+30,Pharmaceutical products,ผลิตภัณฑ์เภสัชกรรม,6,Chemical products,เคมีภัณฑ์
+31,Fertilisers,ปุ๋ย,6,Chemical products,เคมีภัณฑ์
+32,"Tanning and dyeing extracts, paints",สารสกัดฟอกหนังและย้อมสี สี,6,Chemical products,เคมีภัณฑ์
+33,"Essential oils, perfumery, cosmetics",น้ำมันหอมระเหย น้ำหอม เครื่องสำอาง,6,Chemical products,เคมีภัณฑ์
+34,"Soap, waxes, candles",สบู่ แว็กซ์ เทียน,6,Chemical products,เคมีภัณฑ์
+35,"Albuminoidal substances, glues, enzymes",สารโปรตีน กาว เอนไซม์,6,Chemical products,เคมีภัณฑ์
+36,"Explosives, pyrotechnics, matches",วัตถุระเบิด พลุ ไม้ขีดไฟ,6,Chemical products,เคมีภัณฑ์
+37,Photographic goods,สินค้าถ่ายภาพ,6,Chemical products,เคมีภัณฑ์
+38,Misc chemical products,ผลิตภัณฑ์เคมีเบ็ดเตล็ด,6,Chemical products,เคมีภัณฑ์
+39,Plastics and articles thereof,พลาสติกและของที่ทำด้วยพลาสติก,7,Plastics and rubber,พลาสติกและยาง
+40,Rubber and articles thereof,ยางและของที่ทำด้วยยาง,7,Plastics and rubber,พลาสติกและยาง
+41,"Raw hides, skins and leather",หนังดิบและหนังฟอก,8,"Hides, skins, leather, furskins",หนังและผลิตภัณฑ์หนัง
+42,Articles of leather; handbags,ของที่ทำด้วยหนัง กระเป๋า,8,"Hides, skins, leather, furskins",หนังและผลิตภัณฑ์หนัง
+43,Furskins and artificial fur,หนังขนสัตว์และขนสัตว์เทียม,8,"Hides, skins, leather, furskins",หนังและผลิตภัณฑ์หนัง
+44,Wood and articles of wood,ไม้และของที่ทำด้วยไม้,9,"Wood, cork, plaiting materials",ไม้ ไม้ก๊อก วัสดุถักสาน
+45,Cork and articles of cork,ไม้ก๊อกและของที่ทำด้วยไม้ก๊อก,9,"Wood, cork, plaiting materials",ไม้ ไม้ก๊อก วัสดุถักสาน
+46,Articles of plaiting materials,ของที่ทำด้วยวัสดุถักสาน,9,"Wood, cork, plaiting materials",ไม้ ไม้ก๊อก วัสดุถักสาน
+47,Pulp of wood,เยื่อไม้,10,"Pulp, paper, printed matter",เยื่อไม้ กระดาษ สิ่งพิมพ์
+48,Paper and paperboard,กระดาษและกระดาษแข็ง,10,"Pulp, paper, printed matter",เยื่อไม้ กระดาษ สิ่งพิมพ์
+49,Printed books and newspapers,หนังสือและสิ่งพิมพ์,10,"Pulp, paper, printed matter",เยื่อไม้ กระดาษ สิ่งพิมพ์
+50,Silk,ไหม,11,Textiles and textile articles,สิ่งทอและเครื่องนุ่งห่ม
+51,Wool and animal hair,ขนแกะและขนสัตว์,11,Textiles and textile articles,สิ่งทอและเครื่องนุ่งห่ม
+52,Cotton,ฝ้าย,11,Textiles and textile articles,สิ่งทอและเครื่องนุ่งห่ม
+53,Other vegetable textile fibres,เส้นใยพืชอื่น ๆ,11,Textiles and textile articles,สิ่งทอและเครื่องนุ่งห่ม
+54,Man-made filaments,เส้นใยประดิษฐ์ใยยาว,11,Textiles and textile articles,สิ่งทอและเครื่องนุ่งห่ม
+55,Man-made staple fibres,เส้นใยประดิษฐ์ใยสั้น,11,Textiles and textile articles,สิ่งทอและเครื่องนุ่งห่ม
+56,"Wadding, felt, nonwovens, cordage",ใยอัด สักหลาด ผ้าไม่ถักไม่ทอ เชือก,11,Textiles and textile articles,สิ่งทอและเครื่องนุ่งห่ม
+57,Carpets and floor coverings,พรมและสิ่งทอปูพื้น,11,Textiles and textile articles,สิ่งทอและเครื่องนุ่งห่ม
+58,Special woven fabrics,ผ้าทอพิเศษ,11,Textiles and textile articles,สิ่งทอและเครื่องนุ่งห่ม
+59,Coated or laminated textile fabrics,ผ้าเคลือบหรืออาบ,11,Textiles and textile articles,สิ่งทอและเครื่องนุ่งห่ม
+60,Knitted or crocheted fabrics,ผ้าถักนิตหรือโครเชต์,11,Textiles and textile articles,สิ่งทอและเครื่องนุ่งห่ม
+61,"Apparel, knitted or crocheted",เสื้อผ้าสำเร็จรูป (ถักนิตหรือโครเชต์),11,Textiles and textile articles,สิ่งทอและเครื่องนุ่งห่ม
+62,"Apparel, not knitted or crocheted",เสื้อผ้าสำเร็จรูป (ไม่ถักนิต),11,Textiles and textile articles,สิ่งทอและเครื่องนุ่งห่ม
+63,Other made-up textile articles,สิ่งทอสำเร็จรูปอื่น ๆ,11,Textiles and textile articles,สิ่งทอและเครื่องนุ่งห่ม
+64,Footwear,รองเท้า,12,"Footwear, headgear, umbrellas",รองเท้า หมวก ร่ม
+65,Headgear,หมวก,12,"Footwear, headgear, umbrellas",รองเท้า หมวก ร่ม
+66,"Umbrellas, walking sticks",ร่ม ไม้เท้า,12,"Footwear, headgear, umbrellas",รองเท้า หมวก ร่ม
+67,Prepared feathers; artificial flowers,ขนนกปรุงแต่ง ดอกไม้เทียม,12,"Footwear, headgear, umbrellas",รองเท้า หมวก ร่ม
+68,"Articles of stone, plaster, cement",ของที่ทำด้วยหิน ปูนปลาสเตอร์ ซีเมนต์,13,"Stone, ceramic, glass articles",ของจากหิน เซรามิก แก้ว
+69,Ceramic products,ผลิตภัณฑ์เซรามิก,13,"Stone, ceramic, glass articles",ของจากหิน เซรามิก แก้ว
+70,Glass and glassware,แก้วและเครื่องแก้ว,13,"Stone, ceramic, glass articles",ของจากหิน เซรามิก แก้ว
+71,"Pearls, gems, precious metals, jewellery",ไข่มุก อัญมณี โลหะมีค่า เครื่องประดับ,14,"Pearls, precious stones and metals",อัญมณีและโลหะมีค่า
+72,Iron and steel,เหล็กและเหล็กกล้า,15,Base metals and articles thereof,โลหะสามัญและของที่ทำด้วยโลหะสามัญ
+73,Articles of iron or steel,ของที่ทำด้วยเหล็กหรือเหล็กกล้า,15,Base metals and articles thereof,โลหะสามัญและของที่ทำด้วยโลหะสามัญ
+74,Copper and articles thereof,ทองแดงและของที่ทำด้วยทองแดง,15,Base metals and articles thereof,โลหะสามัญและของที่ทำด้วยโลหะสามัญ
+75,Nickel and articles thereof,นิกเกิลและของที่ทำด้วยนิกเกิล,15,Base metals and articles thereof,โลหะสามัญและของที่ทำด้วยโลหะสามัญ
+76,Aluminium and articles thereof,อะลูมิเนียมและของที่ทำด้วยอะลูมิเนียม,15,Base metals and articles thereof,โลหะสามัญและของที่ทำด้วยโลหะสามัญ
+77,Reserved for future use,สงวนไว้,15,Base metals and articles thereof,โลหะสามัญและของที่ทำด้วยโลหะสามัญ
+78,Lead and articles thereof,ตะกั่วและของที่ทำด้วยตะกั่ว,15,Base metals and articles thereof,โลหะสามัญและของที่ทำด้วยโลหะสามัญ
+79,Zinc and articles thereof,สังกะสีและของที่ทำด้วยสังกะสี,15,Base metals and articles thereof,โลหะสามัญและของที่ทำด้วยโลหะสามัญ
+80,Tin and articles thereof,ดีบุกและของที่ทำด้วยดีบุก,15,Base metals and articles thereof,โลหะสามัญและของที่ทำด้วยโลหะสามัญ
+81,Other base metals; cermets,โลหะสามัญอื่น ๆ,15,Base metals and articles thereof,โลหะสามัญและของที่ทำด้วยโลหะสามัญ
+82,"Tools, cutlery of base metal",เครื่องมือ ช้อนส้อมมีดที่ทำด้วยโลหะสามัญ,15,Base metals and articles thereof,โลหะสามัญและของที่ทำด้วยโลหะสามัญ
+83,Misc articles of base metal,ของเบ็ดเตล็ดที่ทำด้วยโลหะสามัญ,15,Base metals and articles thereof,โลหะสามัญและของที่ทำด้วยโลหะสามัญ
+84,Machinery and mechanical appliances (incl. computers),เครื่องจักรและเครื่องใช้กลไก (รวมคอมพิวเตอร์),16,Machinery and electrical equipment,เครื่องจักร เครื่องใช้ไฟฟ้า อิเล็กทรอนิกส์
+85,Electrical machinery and equipment,เครื่องจักรและอุปกรณ์ไฟฟ้า อิเล็กทรอนิกส์,16,Machinery and electrical equipment,เครื่องจักร เครื่องใช้ไฟฟ้า อิเล็กทรอนิกส์
+86,Railway locomotives and rolling stock,รถไฟและรถราง,17,"Vehicles, aircraft, vessels",ยานพาหนะ อากาศยาน เรือ
+87,Vehicles other than railway,ยานบก (รถยนต์ จักรยานยนต์) และส่วนประกอบ,17,"Vehicles, aircraft, vessels",ยานพาหนะ อากาศยาน เรือ
+88,Aircraft and spacecraft,อากาศยาน,17,"Vehicles, aircraft, vessels",ยานพาหนะ อากาศยาน เรือ
+89,Ships and boats,เรือและสิ่งก่อสร้างลอยน้ำ,17,"Vehicles, aircraft, vessels",ยานพาหนะ อากาศยาน เรือ
+90,"Optical, medical and precision instruments",เครื่องมือทางแสง การแพทย์ และเครื่องมือวัดละเอียด,18,"Optical, medical instruments; clocks; music",เครื่องมือแสง การแพทย์ นาฬิกา เครื่องดนตรี
+91,Clocks and watches,นาฬิกา,18,"Optical, medical instruments; clocks; music",เครื่องมือแสง การแพทย์ นาฬิกา เครื่องดนตรี
+92,Musical instruments,เครื่องดนตรี,18,"Optical, medical instruments; clocks; music",เครื่องมือแสง การแพทย์ นาฬิกา เครื่องดนตรี
+93,Arms and ammunition,อาวุธและกระสุน,19,Arms and ammunition,อาวุธและกระสุน
+94,"Furniture, bedding, lamps",เฟอร์นิเจอร์ เครื่องนอน โคมไฟ,20,Miscellaneous manufactured articles,ของเบ็ดเตล็ดที่ผลิตขึ้น
+95,"Toys, games, sports equipment",ของเล่น เกม อุปกรณ์กีฬา,20,Miscellaneous manufactured articles,ของเบ็ดเตล็ดที่ผลิตขึ้น
+96,Misc manufactured articles,ของเบ็ดเตล็ดที่ผลิตขึ้น,20,Miscellaneous manufactured articles,ของเบ็ดเตล็ดที่ผลิตขึ้น
+97,"Works of art, antiques",งานศิลปะ ของสะสม ของเก่า,21,Works of art; special provisions,งานศิลปะและรหัสพิเศษ
+98,Special classification provisions,รหัสพิเศษตามพิกัด,21,Works of art; special provisions,งานศิลปะและรหัสพิเศษ
+99,Special classification provisions (national),รหัสพิเศษตามพิกัด (ระดับประเทศ),21,Works of art; special provisions,งานศิลปะและรหัสพิเศษ

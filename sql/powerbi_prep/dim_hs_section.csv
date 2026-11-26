@@ -1,0 +1,22 @@
+﻿section_no,chapter_from,chapter_to,section_name_en,section_name_th
+1,1,5,Live animals; animal products,สัตว์มีชีวิตและผลิตภัณฑ์จากสัตว์
+2,6,14,Vegetable products,ผลิตภัณฑ์จากพืช
+3,15,15,Animal or vegetable fats and oils,ไขมันและน้ำมันจากสัตว์หรือพืช
+4,16,24,Prepared foodstuffs; beverages; tobacco,อาหารปรุงแต่ง เครื่องดื่ม ยาสูบ
+5,25,27,Mineral products,ผลิตภัณฑ์แร่ธาตุและเชื้อเพลิง
+6,28,38,Chemical products,เคมีภัณฑ์
+7,39,40,Plastics and rubber,พลาสติกและยาง
+8,41,43,"Hides, skins, leather, furskins",หนังและผลิตภัณฑ์หนัง
+9,44,46,"Wood, cork, plaiting materials",ไม้ ไม้ก๊อก วัสดุถักสาน
+10,47,49,"Pulp, paper, printed matter",เยื่อไม้ กระดาษ สิ่งพิมพ์
+11,50,63,Textiles and textile articles,สิ่งทอและเครื่องนุ่งห่ม
+12,64,67,"Footwear, headgear, umbrellas",รองเท้า หมวก ร่ม
+13,68,70,"Stone, ceramic, glass articles",ของจากหิน เซรามิก แก้ว
+14,71,71,"Pearls, precious stones and metals",อัญมณีและโลหะมีค่า
+15,72,83,Base metals and articles thereof,โลหะสามัญและของที่ทำด้วยโลหะสามัญ
+16,84,85,Machinery and electrical equipment,เครื่องจักร เครื่องใช้ไฟฟ้า อิเล็กทรอนิกส์
+17,86,89,"Vehicles, aircraft, vessels",ยานพาหนะ อากาศยาน เรือ
+18,90,92,"Optical, medical instruments; clocks; music",เครื่องมือแสง การแพทย์ นาฬิกา เครื่องดนตรี
+19,93,93,Arms and ammunition,อาวุธและกระสุน
+20,94,96,Miscellaneous manufactured articles,ของเบ็ดเตล็ดที่ผลิตขึ้น
+21,97,99,Works of art; special provisions,งานศิลปะและรหัสพิเศษ
