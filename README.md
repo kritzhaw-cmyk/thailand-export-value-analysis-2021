@@ -44,4 +44,4 @@
 
 ## ผู้จัดทำ
 
-⚠️ ชื่อ · LinkedIn · อีเมล
+⚠️ ชื่อ · LinkedIn · Krit.zhaw@gmail.com
