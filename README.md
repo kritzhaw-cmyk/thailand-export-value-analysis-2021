@@ -42,7 +42,7 @@
 1. สร้างฐานข้อมูล SQLite ใหม่ แล้วรัน [clean_export_hscode.sql](sql/clean/clean_export_hscode.sql) ข้อ 0 เพื่อสร้างตาราง export_raw
 2. นำเข้า [exportvalueperhscode64.csv]([data/raw/exportvalueperhscode64.csv](https://data.go.th/dataset/ctm_06_02)) ลงตาราง export_raw (ข้ามแถวหัวตาราง, ทุกคอลัมน์เป็น TEXT)
 3. รันส่วนที่เหลือของ [clean_export_hscode.sql](sql/clean/clean_export_hscode.sql) ตามด้วย [powerbi_prep_export64.sql](sql/powerbi_prep/powerbi_prep_export64.sql)
-4. ส่งออกตารางเป็น CSV (UTF-8) แล้วเปิด powerbi/dashboard.pbix
+4. ส่งออกตารางเป็น CSV (UTF-8) แล้วเปิด [exportvalueperhscode64_dashboard](powerbi/exportvalueperhscode64_dashboard.pbix)
 
 ## ผู้จัดทำ
 กฤษฎิ์ ฉาวชาวนา
