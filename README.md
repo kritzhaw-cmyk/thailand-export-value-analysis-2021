@@ -4,9 +4,9 @@
 
 ## Dashboard
 
-[images/page1_overview.png](images/page1_overview.png)
-[images/page2_top_hs.png](images/page2_top_hs.png)
-[images/page3_volatility.png](images/page3_volatility.png)
+![page1_overview.png](images/page1_overview.png)
+![page2_top_hs.png](images/page2_top_hs.png)
+![page3_volatility.png](images/page3_volatility.png)
 
 ## ข้อค้นพบสำคัญ
 
