@@ -38,7 +38,7 @@
 
 ## วิธีรันซ้ำ
 
-1. สร้างฐานข้อมูล SQLite แล้วรัน `sql/01_clean_export_hscode.sql` ข้อ 0 เพื่อสร้างตาราง `export_raw`
+1. สร้างฐานข้อมูล SQLite แล้วรัน `sql/clean_export_hscode.sql` ข้อ 0 เพื่อสร้างตาราง `export_raw`
 2. นำเข้า CSV ดิบ แล้วรันส่วนที่เหลือของไฟล์ 01 ตามด้วย `sql/02_powerbi_prep_export64.sql`
 3. เปิด `powerbi/dashboard.pbix`
 
