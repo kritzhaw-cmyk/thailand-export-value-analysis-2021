@@ -39,9 +39,10 @@
 
 ## วิธีรันซ้ำ
 
-1. สร้างฐานข้อมูล SQLite แล้วรัน `data/raw/exportvalueperhscode64.csv` ข้อ 0 เพื่อสร้างตาราง `export_raw`
-2. นำเข้า CSV ดิบ แล้วรันส่วนที่เหลือของไฟล์ 01 ตามด้วย `sql/02_powerbi_prep_export64.sql`
-3. เปิด `powerbi/dashboard.pbix`
+1. สร้างฐานข้อมูล SQLite ใหม่ แล้วรัน [clean_export_hscode.sql](sql/clean/clean_export_hscode.sql) ข้อ 0 เพื่อสร้างตาราง export_raw
+2. นำเข้า [data/raw/exportvalueperhscode64.csv](data/raw/exportvalueperhscode64.csv) ลงตาราง export_raw (ข้ามแถวหัวตาราง, ทุกคอลัมน์เป็น TEXT)
+3. รันส่วนที่เหลือของ 01_clean_export_hscode.sql ตามด้วย 02_powerbi_prep_export64.sql
+4. ส่งออกตารางเป็น CSV (UTF-8) แล้วเปิด powerbi/dashboard.pbix
 
 ## ผู้จัดทำ
 กฤษฎิ์ ฉาวชาวนา
